@@ -9,8 +9,8 @@
            |   |                                         |    |
            |   |                ~ STATUS ~               |    |
            |   |                                         |    |
-           |   |   - working on a blog                   |    |
-           |   |   - killing time until death            |    |
+           |   |   - blog creating                       |    |
+           |   |   - channel creating                    |    |
            |   |                                         |    |
            |   |_________________________________________|    |
            |                                                  |
